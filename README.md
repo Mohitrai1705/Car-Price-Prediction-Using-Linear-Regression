@@ -45,7 +45,6 @@ When you are done with model building and residual analysis and have made predic
 ## Details of files given
 - Car+Price+Prediction+Assignment+Solution+Mohit_Rai.ipynb : The python file showing coding and data analysis
 - Linear+Regression+Subjective+Questions+Solution.pdf : Some subjective questions answered
-- Lead Score Case Study.pdf : Final Presentation
 - CarPrice_Assignment.csv : Data worked on
 - Data Dictionary - carprices.xlsx : Data Dictionary
 
